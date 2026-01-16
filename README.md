@@ -1,4 +1,6 @@
 # cv-static-website
+🔗 Live Website: https://d3ipmfmcyy9alr.cloudfront.net
+
 # Personal CV Static Website on AWS
 
 This project demonstrates how I designed, deployed and iteratively improved a one-page personal CV website using core AWS services. The site evolved from a basic unstyled HTML page into a refined, editorial-style static website with custom typography, colour, and layout.
