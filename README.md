@@ -1,5 +1,5 @@
 # cv-static-website
-🔗 Live Website: https://d3ipmfmcyy9alr.cloudfront.net
+🔗 Live Website: http://koketso-cv-website.s3-website-us-east-1.amazonaws.com/
 
 # Personal CV Static Website on AWS
 
